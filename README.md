@@ -10,10 +10,8 @@ Project aims to create random user generator by using fetch API.
 ## Project Skeleton 
 
 ```
-to-do app (folder)
-|----img
-|----sound     (folder)    
-      |----sounds
+randomUser Api (folder)
+|----img     
 |----app.js  
 |----index.html   
 |----style.css
